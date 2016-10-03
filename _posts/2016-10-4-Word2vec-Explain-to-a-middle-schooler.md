@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Word2Vec : Explain like you're a Middle schooler
+title: Word2Vec - Explain like you're a Middle schooler
 ---
 
 ဒီ post မှာ Deep Learning for NLP အတွက် အခြေခံအကျဆုုံးဖြစ်တဲ့ Word2Vec အကြောင်းကိုု ခက်ခက်ခဲခဲ သချင်္ာတွေ algorithm ​တွေမပါပဲ မိတ်ဆက်ပေးချင်ပါတယ်။
