@@ -41,5 +41,6 @@ Syntactic structures တွေဖြစ်တဲ့ Plural တို့ Past ten
 ထားပါတော့ စပိန်နိုင်ငံရဲ့မြို့တော်ရဲ့ vector ကိုရှာချင်ရင်.. Myanmar - Yangon + Spain ဆိုပြီးရာလိုက်ရင် ရလာဒ်က Madrid နဲ့အနီးဆုံုးဖြစ်လိမ့်မယ်။
 
 ![Word2Vec Visualization (Photo: Tensorflow)]({{ https://www.tensorflow.org/versions/r0.10/tutorials/word2vec/index.html }}/images/word2vec1.png)
+*Word2Vec Visualization (Photo: Tensorflow)*
 
 ကဲ... အံ့သြဖို့မကောင်းဘူးလား။ neural network တခုကို large text corpus တခုနဲ့ train လိုက်တာနဲ့ မျက်လှည့်ပြသလိုပဲ သူ ့့အလိုလို syntax and semantic meaning တွေနားလည်လာတယ်ဆိုတာ။ (အမှန်တကယ်ကတော့ မျက်လှည့်မဟုုတ်ပါဘူး။ Linguistic နဲ့လဲဆိုင်တယ်..။ အသေးစိတ်ရေးရင် အလယ်တန်းကျောင်းသားကိုုရှင်းပြတာနဲ့မတူတော့လိုု့ အချိန်ရမှ နောက်တပိုု့ရေးပြီးရှင်းမယ် :P )
