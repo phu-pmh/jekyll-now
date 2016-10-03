@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a woman in Computer Science who is fascinated by Artificial Intelligence. I'm also intrigued by a variety of other disciplines such as Neuroscience, Social Sciences and Linguistics.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+My main interests lies in Deep Learning and Natural Language Processing.
