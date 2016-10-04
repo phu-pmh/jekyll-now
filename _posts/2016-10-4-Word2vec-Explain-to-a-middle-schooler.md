@@ -4,9 +4,9 @@ title: Word2Vec - Explain like you're a Middle schooler
 ---
 
 ဒီ post မှာ Deep Learning for NLP အတွက် အခြေခံအကျဆုံးဖြစ်တဲ့ Word2Vec အကြောင်းကို ခက်ခက်ခဲခဲ သင်္ချာတွေ algorithm ​တွေမပါပဲ မိတ်ဆက်ပေးချင်ပါတယ်။
-"Explain Like I'm 5" ပုံုစံမျိုးပေါ့။ ဒါပေမယ့် ၅နှစ်သားကိုရှင်းပြဖို့က လက်ပေါက်ကတ်တာမို့ အလယ်တန်းကျောင်းသား တယောက်ကိုရှင်းသလိုရှင်းပြကြည့်ပါမယ်။
+"Explain Like I'm 5" ပုံစံမျိုးပေါ့။ ဒါပေမယ့် ၅နှစ်သားကိုရှင်းပြဖို့က လက်ပေါက်ကတ်တာမို့ အလယ်တန်းကျောင်းသား တယောက်ကိုရှင်းသလိုရှင်းပြကြည့်ပါမယ်။
 
-အလုပ်မှာ ဝင်ဝင်ချင်းမှာ အထက်လူကြီးက ပထမဆုံးဖတ်ဖို့ပေးတဲ့ Paper က Word2Vec အကြောင်း။ (T. Mikolov et al.) 
+အလုပ်မှာ ဝင်ဝင်ချင်းမှာ အထက်လူကြီးက ပထမဆုံးဖတ်ဖို့ပေးတဲ့ Paper က Word2Vec အကြောင်း။ (by [T. Mikolov et al.](https://arxiv.org/pdf/1301.3781.pdf))  
 NUS မှာ Deep Learning for NLP class တက်တော့လဲ ပထမဦးဆုံးသင်ရတာက Word2Vec ပဲ။
 MNIST(digit recognition) က Machine Learning အတွက် Hello World ဆိုရင် Word2vec က DeepNLP အတွက် Hello World ပဲလို့တောင်ပြောလို့ရမလား..။
 NLP လုပ်နေတဲ့သူတွေနဲ့တော့ word2vec ကရင်းနှီးပြီးသားနေမှာပါ။ မရင်းနှီးသေးတဲ့လူတွေအတွက် Word2vec ကိုမိတ်ဆတ်ပေးချင်ပါတယ်။
@@ -31,8 +31,8 @@ Word2Vec ကလွယ်ကူပေမယ့် အရမ်းအသုံး�
 ဥပမာ:  **Man**  - **Woman** + **King**  ~= **Queen**
 
 အဲဒီမှာ **Man** ဆိုတာ Man ဆိုတဲ့စာလုံးအတွက် Word Embedding(Vector) ပေါ့။  
-ဆိုလိုရင်းကတော့ **Man** ထဲက **Woman** ကိုနှူတ်ပြီးရလာတဲ့ vector က Gender ရဲ့ semantic meaning ကို capture လုပ်ထားနိုင်တယ်ဆိုတဲ့သဘောပဲ။  
-အဲဒီ vectorကိုလွယ်လွယ်နဲ့ **ဖို->မ Gender Vector** လို့ခေါ်လိုက်ရအောင်။ အဲဒီ ဖိုမ vector ကို ကိုယ့် vocabulary ထဲမှာရှိတဲ့ ကျားနဲ့ဆိုင်တဲ့ words တွေဆီသွားပေါင်းကြည့်ရင် သူနဲ့သက်ဆိုုင်တဲ့ မ word vector ရတယ်။  
+ဆိုလိုရင်းကတော့ **Man** ထဲက **Woman** ကိုနှုတ်ပြီးရလာတဲ့ vector က Gender ရဲ့ semantic meaning ကို capture လုပ်ထားနိုင်တယ်ဆိုတဲ့သဘောပဲ။  
+အဲဒီ vectorကိုလွယ်လွယ်နဲ့ **ဖို->မ Gender Vector** လို့ခေါ်လိုက်ရအောင်။ အဲဒီ ဖိုမ vector ကို ကိုယ့် vocabulary ထဲမှာရှိတဲ့ ကျားနဲ့ဆိုင်တဲ့ words တွေဆီသွားပေါင်းကြည့်ရင် သူနဲ့သက်ဆိုင်တဲ့ မ word vector ရတယ်။  
 **King** ဆီသွားပေါင်းရင် **Queen** ရတယ်။ 
 
 ဒါတင်မကဘူး syntatic (grammar) meaning ကိုလဲဖမ်းယူထားနိုင်တယ်။  
@@ -42,7 +42,7 @@ Word2Vec ကလွယ်ကူပေမယ့် အရမ်းအသုံး�
 Syntactic structures တွေဖြစ်တဲ့ Plural တို့ Past tense တို့ကိုလဲ သူကနားလည်တယ်။
 
 နောက်ဥပမာ တခုထပ်ပေးရင်.. စပိန်နိုင်ငံရဲ့မြို့တော်ရဲ့ vector ကိုရှာချင်ရင်..  
-**Myanmar - Yangon + Spain** ဆိုပြီးရာလိုက်ရင် ရလာဒ်က **Madrid** နဲ့အနီးဆုံုးဖြစ်လိမ့်မယ်။
+**Myanmar - Yangon + Spain** ဆိုပြီးရာလိုက်ရင် ရလာဒ်က **Madrid** နဲ့အနီးဆုံးဖြစ်လိမ့်မယ်။
 
 ![Word2Vec Visualization (Photo: Tensorflow)]({{ https://www.tensorflow.org/versions/r0.10/tutorials/word2vec/index.html }}/images/word2vec1.png)
 *Word2Vec Visualization (Photo: Tensorflow)*
