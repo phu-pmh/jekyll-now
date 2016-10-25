@@ -52,8 +52,7 @@ Word2Vec ကလွယ်ကူပေမယ့် အရမ်းအသုံး�
 Syntactic structures တွေဖြစ်တဲ့ Plural တို့ Past tense တို့ကိုလဲ သူကနားလည်တယ်။
 
 
-
-![Word2Vec Visualization (Photo: Tensorflow)]({{ https://www.tensorflow.org/versions/r0.10/tutorials/word2vec/index.html }}/images/word2vec1.png)
+![Word2Vec Visualization (Photo: Tensorflow)]({{https://www.tensorflow.org/versions/r0.10/tutorials/word2vec/index.html}}http://i65.tinypic.com/dggj5z.png)
 *Word2Vec Visualization (Photo: Tensorflow)*
 
 ကဲ... အံ့သြဖို့မကောင်းဘူးလား။ neural network တခုကို large text corpus တခုနဲ့ train လိုက်တာနဲ့ မျက်လှည့်ပြသလိုပဲ သူ့အလိုလို syntax and semantic တွေနားလည်လာတယ်ဆိုတာ။ (အမှန်တကယ်ကတော့ မျက်လှည့်မဟုတ်ပါဘူး။ Linguistic နဲ့လဲဆိုင်တယ်..။ အသေးစိတ်ရေးရင် အလယ်တန်းကျောင်းသားကိုရှင်းပြတာနဲ့မတူတော့လို့ အချိန်ရမှ နောက်တပုဒ်ရေးပြီးရှင်းတာပေါ့ :P )
