@@ -6,7 +6,7 @@ title: Intro to Neural Networks - Part 1
 ## Virtually Impossible Problems??
 
 ![Virtually Impossible Problem?](http://i67.tinypic.com/29on8yq.jpg){: .center-image }  
-*Source: xkcd.com/1425/*
+*Source: [xkcd](https://xkcd.com/1425/)*
 
 လူတယောက်က ပုံတပုံကို ကြည့်လိုက်တာနဲ့ တန်းပြီး အဲပုံက ငှက်ပုံဟုတ်လား မဟုတ်ဘူးလားဆိုတာ ခွဲခြားလို့ရတယ်။ ကိုယ်တခါမှမမြင်ဖူးတဲ့ ငှက်အမျိုးအစားပုံတွေ့ရင်တောင် ဒါက ငှက်ပုံပဲဆိုတာကို လူ့ဦးနှောက်ကခွဲခြားပြီးသိတယ်။ ကွန်ပြူတာကိုတော့ အဲလိုမျိုးခွဲခြားတတ်ဖို့ ဘယ်လို program လုပ်မလဲ။ ဒီပြသနာက ဒီအတိုင်း explicitly program လုပ်လို့မရဘူး။ အဲဒါကြောင့် အပေါ်ကကာတွန်းမှာ “Virtually Impossible” လို့တင်စားပြောထားတယ်။
 
@@ -23,14 +23,14 @@ title: Intro to Neural Networks - Part 1
 ![Biological Neuron](http://i65.tinypic.com/2qmmfyb.jpg)
 *Biological Neuron*
 
-အပေါ်ယံပိုင်းတည်ဆောက်ပုံကိုကြည့်ရင် Neuron တွေက တခြား Neuron တွေဆီကလာတဲ့ Signal တွေကို Dendrite လို့ခေါ်တဲ့ အစိတ်အပိုင်းလေးတွေကနေ လက်ခံရရှိတယ်။ ပြီးရင် Neuron ရဲ့ Computational Unit သဘောတရားနဲ့တူတဲ့ Cell Body ရှိတယ်။ ပြီးရင် သူ့ဆီက Signal တွေကို တခြား Neuron တွေဆီ လက်ဆင့်ကမ်းဖို့ Axon လို့ခေါ်တဲ့ အစိတ်အပိုင်းတွေရှိတယ်။
+အပေါ်ယံပိုင်းတည်ဆောက်ပုံကိုကြည့်ရင် Neuron တွေမှာ တခြား Neuron တွေဆီကလာတဲ့ Signal တွေကို Dendrite လို့ခေါ်တဲ့ အစိတ်အပိုင်းလေးတွေကနေ လက်ခံရရှိတယ်။ ပြီးရင် Neuron ရဲ့ Computational Unit သဘောတရားနဲ့တူတဲ့ Cell Body ရှိတယ်။ ပြီးရင် သူ့ဆီက Signal တွေကို တခြား Neuron တွေဆီ လက်ဆင့်ကမ်းဖို့ Axon လို့ခေါ်တဲ့ အစိတ်အပိုင်းတွေရှိတယ်။
 
 
 အဲဒီအပေါ်ယံ တည်ဆောက်ပုံကို အခြေခံပြီး Artificial Neuron တစ်ခုမှာ Input wires၊ Computational Unit နဲ့ Output wire တွေရှိတယ်။ အောက်ကပုံကတော့ Biological Neuron နဲ့ Artificial Neuron ကိုယှဉ်ပြထားတာပါ။  
 
 
 ![Biological Neural Network Vs ANN](http://www.intechopen.com/source/html/39067/media/image1.png)  
-*Source: http://www.intechopen.com/source/html/39067/media/image1.png*  
+*Source: [http://www.intechopen.com/source/html/39067/media/image1.png](http://www.intechopen.com/source/html/39067/media/image1.png) http://www.intechopen.com/source/html/39067/media/image1.png*  
 
 
 ဒါကတော့ Neural Network ရဲ့အခြေခံ သဘောတရားပဲ။  
@@ -42,7 +42,7 @@ Credit:
 Photos not owned by me. 
 
 References:  
-[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)  
 [Everything You Need to Know About Artificial Neural Networks ](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1#.ud8aw7z8p)
 
 
