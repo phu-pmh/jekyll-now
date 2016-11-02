@@ -30,7 +30,7 @@ title: Intro to Neural Networks - Part 1
 
 
 ![Biological Neural Network Vs ANN](http://www.intechopen.com/source/html/39067/media/image1.png)  
-*Source: [http://www.intechopen.com/source/html/39067/media/image1.png](http://www.intechopen.com/source/html/39067/media/image1.png) http://www.intechopen.com/source/html/39067/media/image1.png*  
+*Source: [http://www.intechopen.com/source/html/39067/media/image1.png](http://www.intechopen.com/source/html/39067/media/image1.png)*  
 
 
 ဒါကတော့ Neural Network ရဲ့အခြေခံ သဘောတရားပဲ။  
