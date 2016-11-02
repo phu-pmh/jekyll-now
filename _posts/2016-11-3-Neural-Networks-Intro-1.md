@@ -12,7 +12,7 @@ title: Intro to Neural Networks - Part 1
 
 အဲဒါဆိုရင် ဒီပြသနာကို ဘယ်လိုဖြေရှင်းမလဲ။ အောက်ကပုံမှာလို Google Vision API ကိုငှက်ပုံပြရင် ငှက်ပါလို့ ၉၉% အသေအချာပြောနိုင်အောင်ဘယ်လိုလုပ်ထားလဲ။  
 အဖြေက explicitly program လုပ်မဲ့အစား ကလေးတယောက်ကို သင်ပေးသလို၊ computer ကို ငှက်ပုံတွေအများကြီးပြပြီး ဒါကငှက်ပုံတွေဆိုပြီး နားလည်လာအောင်သင်ပေးထားတာပါ။ အဲတာကို Machine Learning လို့ခေါ်ပါတယ်။ အတိအကျပြောရရင် Artificial Neural Network လို့ခေါ်တဲ့နည်းပညာကို သုံးထားတာပါ။  
-![Google Vision API](/images/ann_birds.png)
+![Google Vision API](http://i67.tinypic.com/106erf4.png)
 
 
 ## Artificial Neural Network ဆိုတာဘာလဲ  
