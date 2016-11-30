@@ -2,11 +2,11 @@
 layout: post
 title: What is a Neural Network?
 ---
-
-## Virtually Impossible Problems??
-
 ![Virtually Impossible Problem?](../images/neural_nets_tasks1.png)  
-*Source: [xkcd](https://xkcd.com/1425/)*
+*Source: [xkcd](https://xkcd.com/1425/)*  
+
+## Virtually Impossible Problems??  
+
 
 လူတယောက်က ပုံတပုံကို ကြည့်လိုက်တာနဲ့ တန်းပြီး အဲပုံက ငှက်ပုံဟုတ်လား မဟုတ်ဘူးလားဆိုတာ ခွဲခြားလို့ရတယ်။ ကိုယ်တခါမှမမြင်ဖူးတဲ့ ငှက်အမျိုးအစားပုံတွေ့ရင်တောင် ဒါက ငှက်ပုံပဲဆိုတာကို လူ့ဦးနှောက်ကခွဲခြားပြီးသိတယ်။ ကွန်ပြူတာကိုတော့ အဲလိုမျိုးခွဲခြားတတ်ဖို့ ဘယ်လို program လုပ်မလဲ။ ဒီပြသနာက ဒီအတိုင်း explicitly program လုပ်လို့မရဘူး။ အဲဒါကြောင့် အပေါ်ကကာတွန်းမှာ “Virtually Impossible” လို့တင်စားပြောထားတယ်။
 
