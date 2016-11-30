@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to Neural Networks - Part 1
+title: What is a Neural Network?
 ---
 
 ## Virtually Impossible Problems??
