@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-A woman in Tech who is fascinated by Neural Networks.  
-A noob who's self-studying Deep Learning and NLP; writing down what she learned in this blog for future reference.
+A woman in Computer Science who is fascinated by Artificial Intelligence.  
+A noob who's studying Deep Learning and NLP; writing down what she learned in this blog.
